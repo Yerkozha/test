@@ -1,0 +1,28 @@
+array (
+  2501 => 
+  array (
+    'img' => '/images/products/neutral/stol/main/1.jpg',
+    'quantity' => '1',
+    'price' => '22680',
+    'title' => '<a href=\'stol_opened.html\'>Стол, нержавеющая сталь, открытый</a>',
+    'id' => '2501',
+    'count' => '2',
+  ),
+  2555 => 
+  array (
+    'img' => '/images/products/neutral/moika/main/5.jpg',
+    'quantity' => '1',
+    'price' => '69215',
+    'title' => '<a href=\'moika_3_sekcionnaya.html\'>Мойка трехсекционная</a>',
+    'id' => '2555',
+    'count' => '1',
+  ),
+)
+array (
+  'user_name' => 'Пайдина Батика ',
+  'user_phone' => '7051746032',
+  'user_mail' => 'Batikapaidina@mail.ru',
+  'city_text' => 'Уральск',
+  'user_address' => 'Алсш 53',
+  'user_comment' => '',
+)
