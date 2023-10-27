@@ -1849,6 +1849,17 @@ if (document.querySelector("#office_info_img") != null) {
     cssEase: "linear",
   });
 }
+if (document.querySelector("#office_info_img_1") != null) {
+  $("#office_info_img").slick({
+    dots: true,
+    infinite: true,
+    speed: 500,
+    fade: true,
+    autoplay: true,
+    autoplaySpeed: 8000,
+    cssEase: "linear",
+  });
+}
 
 
 // __________________Типы предприятия слайдер index.html________________________
